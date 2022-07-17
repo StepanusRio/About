@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StepanusRio
 - 👀 I’m interested in Web/Apps Dev
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning NodeJS,Java,Vb.Net
 - 📫 How to reach me :
 - IG stepanusriodefa
 - Twitter stepanusriodefa
